@@ -29,6 +29,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    //CIテスト
 
   @IBOutlet weak var scoreLabel: UILabel!
   @IBOutlet weak var converterLabel: UILabel!
