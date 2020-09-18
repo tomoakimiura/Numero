@@ -30,7 +30,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    //CIテスト234
+    //CIテスト2345
 
   @IBOutlet weak var scoreLabel: UILabel!
   @IBOutlet weak var converterLabel: UILabel!
