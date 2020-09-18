@@ -373,9 +373,9 @@
 				DEVELOPMENT_TEAM = XD2W2H38WX;
 				INFOPLIST_FILE = Numero/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.NumeroTomo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.NumeroTest1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = NumeroDevelopment;
+				PROVISIONING_PROFILE_SPECIFIER = NumeroTest1Dev;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -392,9 +392,9 @@
 				INFOPLIST_FILE = Numero/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.NumeroTomo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.NumeroTest1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = NumeroDevelopment;
+				PROVISIONING_PROFILE_SPECIFIER = NumeroTest1Dev;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
